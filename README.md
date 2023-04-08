@@ -6,7 +6,7 @@ Challenge 3
 This repository contains the source for a random generated password.
 
 ## Visuals
-![Test]https://github.com/shimpfierie/pass-gen/blob/main/passgen.PNG?raw=true
+![Password Generator]https://github.com/shimpfierie/pass-gen/blob/main/passgen.PNG?raw=true
 
 ## Installation
 
