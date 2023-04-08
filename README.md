@@ -7,7 +7,9 @@ This repository contains the source for a random generated password.
 
 ## Visuals
 ![Password_Generator]https://github.com/shimpfierie/pass-gen/blob/main/passgen.PNG?raw=true
+
 ![Password_Generator]https://github.com/shimpfierie/pass-gen/blob/main/passgen1.PNG?raw=true
+
 ![Password_Generator]https://github.com/shimpfierie/pass-gen/blob/main/passgen2.PNG?raw=true
 
 ## Installation
